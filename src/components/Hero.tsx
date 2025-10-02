@@ -66,7 +66,7 @@ const Hero = () => {
             <div className="absolute inset-0 rounded-full bg-gradient-to-r from-primary/30 via-transparent to-accent/30 animate-spin-slow scale-110 blur-sm"></div>
             
             <img 
-              src="/placeholder.svg"
+              src="/profile.jpg"
               alt="Profile"
               className="w-48 h-48 rounded-full mx-auto mb-8 object-cover shadow-2xl border-4 border-border/50 relative z-10 transition-all duration-500 hover:scale-105 glow-purple"
             />

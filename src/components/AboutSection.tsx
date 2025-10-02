@@ -21,7 +21,7 @@ const AboutSection = () => {
             <div className="relative group">
               <div className="w-80 h-80 bg-gradient-to-br from-blue-500 via-indigo-500 to-blue-600 rounded-full flex items-center justify-center shadow-xl transition-all duration-500 group-hover:shadow-blue-500/25 group-hover:scale-105">
                 <img 
-                  src="/placeholder.svg"
+                  src="/profile.jpg"
                   alt="Profile"
                   className="w-64 h-64 rounded-full object-cover border-4 border-white shadow-lg transition-all duration-300 group-hover:border-blue-100"
                 />
